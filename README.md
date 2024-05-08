@@ -1,0 +1,1 @@
+The app allows users to browse different recipes, and see their details (including their cooking time, cuisine type, ingredients, instructions, etc.). The user can create, edit, or delete recipes. Users can also create, edit, or delete their profiles.
